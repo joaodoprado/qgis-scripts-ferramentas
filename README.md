@@ -36,7 +36,7 @@ Testado com:
    - Raio de busca em centímetros (ex: 11)
 
 ## 📁 Estrutura do Projeto
-.
+
 ├── selecao_espacial.py      # Script principal
 
 ├── exemplo/                 # Dados de demonstração
