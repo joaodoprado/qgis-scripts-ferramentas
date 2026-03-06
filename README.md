@@ -36,3 +36,23 @@ Testado com:
    - Raio de busca em centímetros (ex: 11)
 
 ## 📁 Estrutura do Projeto
+.
+├── selecao_espacial.py      # Script principal
+├── exemplo/                 # Dados de demonstração
+│   ├── pontos_teste.shp
+│   └── areas_referencia.shp
+└── README.md
+
+## 🛠️ Tecnologias
+
+- **PyQGIS** — API Python do QGIS
+- **QgsSpatialIndex** — Índice R-tree para busca espacial otimizada
+- **Sistemas de Coordenadas** — Conversão automática graus ↔ metros
+
+## 📍 Contexto
+
+Desenvolvido em São Luís - MA, Brasil, para análise de dados geoespaciais municipais.
+
+## 📄 Licença
+
+MIT — Livre para uso e modificação.
