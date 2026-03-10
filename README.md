@@ -18,7 +18,8 @@ Para sair do "básico", este script foi construído com foco em dois pilares:
 4. A ferramenta aparecerá no grupo "Meus Scripts de Automação".
 
 ## 📸 Interface da Ferramenta
-*(Dica: Adicione aqui um print da janelinha do script rodando no seu QGIS)*
+<img width="1460" height="718" alt="image" src="https://github.com/user-attachments/assets/e26da0fa-ffe2-401b-843c-7079e3326848" />
+
 
 ## 🧠 Lógica Implementada
 O algoritmo segue o fluxo:
