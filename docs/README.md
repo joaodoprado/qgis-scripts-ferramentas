@@ -15,6 +15,13 @@ que demandavam horas para segundos.
 
 <img src="/docs/IMAGENS/interface_tool.png" alt="Interface da ferramenta no QGIS" width="776">
 
+## 📌 Como Usar
+
+1. Baixe `selecao_pontos_isolados.py`
+2. No QGIS: **Processamento** → **Caixa de Ferramentas** → **Scripts** → **Adicionar Script ao Painel...**
+3. Selecione o arquivo
+4. Execute: **Scripts** → **Seleção de Pontos Isolados (Métrico)**
+
 ## 🚀 Diferenciais Técnicos
 
 | Recurso | Benefício |
