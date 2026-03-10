@@ -32,10 +32,6 @@ Testado com 50.000+ pontos:
 - **QgsDistanceArea** - Cálculos geodésicos elipsoidais
 - **Qt5** - Interface nativa do QGIS
 
-## 📸 Demonstração
-
-[Adicionar GIF ou link para vídeo]
-
 ## 🏢 Contexto Profissional
 
 Desenvolvido para **[Progeo Engenharia]** como solução de automação para 
