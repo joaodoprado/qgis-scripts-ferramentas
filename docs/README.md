@@ -22,7 +22,7 @@
 ## ⚡ Performance
 
 Testado com 50.000+ pontos:
-- **Tempo de execução:** &lt; 3 segundos
+- **Tempo de execução:** &lt; 10 segundos
 - **Consumo de memória:** Otimizado via streaming
 
 ## 🛠️ Stack Tecnológico
