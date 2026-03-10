@@ -8,7 +8,7 @@
 &gt; de feições pontuais isoladas utilizando Spatial Index (R-Tree) e cálculos 
 &gt; geodésicos precisos.
  
-![Interface](./docs/IMAGENS/interface_tool.png)
+[![Interface](./docs/IMAGENS/interface_tool.png)](https://github.com/joaodoprado/qgis-spatial-isolation-detector/blob/main/docs/IMAGENS/interface_tool.png)
 
 ## 🚀 Diferenciais Técnicos
 
